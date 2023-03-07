@@ -94,8 +94,4 @@ const Portfolio = () => {
   );
 };
 
-<<<<<<< HEAD
-export default Portfolio
-=======
 export default Portfolio;
->>>>>>> 8bb8153 (added projects)
