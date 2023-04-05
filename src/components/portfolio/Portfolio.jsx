@@ -4,7 +4,7 @@ import IMG1 from "../../assets/portfolio1.png";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
-import IMG5 from "../../assets/portfolio5.jpg";
+import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
 
 // ARRAY OF PORTFOLIO PROJECTS
@@ -42,8 +42,8 @@ const data = [
     id: 5,
     image: IMG5,
     title: "Title",
-    github: "https://github.com",
-    demo: "demo",
+    github: "https://github.com/davidthumbi/vue-covid-tracker",
+    demo: "https://covidtrackerapi.vercel.app/",
   },
   {
     id: 6,
