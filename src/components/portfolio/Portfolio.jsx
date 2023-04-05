@@ -41,7 +41,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Title",
+    title: "Covid-19 Tracker App",
     github: "https://github.com/davidthumbi/vue-covid-tracker",
     demo: "https://covidtrackerapi.vercel.app/",
   },
