@@ -5,7 +5,7 @@ import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/portfolio6.png";
 
 // ARRAY OF PORTFOLIO PROJECTS
 
@@ -48,9 +48,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Title",
-    github: "https://github.com",
-    demo: "demo",
+    title: "TechMonday Blog App",
+    github: "https://github.com/davidthumbi/blogs-app",
+    demo: "https://techmonday.vercel.app/",
   },
 ];
 
